@@ -1,2 +1,2 @@
 # Hyper-Text-Markup-Language
-Sample Code
+Sample code for html learning

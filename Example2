@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+</head>
+
+<body>
+    Hey Guys <b>Hey Guys</b> <br />
+    Hey Guys <i>Hey Guys</i> <br />
+    Hey Guys <u>Hey Guys</u> <br />
+    Hey Guys <u><b><i>Hey Guys</i></b></u><br />
+    Hey Guys <strong>Hey Guys</strong><br />
+    Hey Guys <em>Hey Guys</em><br />
+    Hey Guys <big>Hey Guys</big><br />
+    Hey Guys <small>Hey Guys</small><br />
+    <del>100$</del> <ins>90$</ins><br />
+    <mark>Hey Guys</mark><br />
+    x<sup>2</sup><br />
+    H<sub>2</sub>O<br />
+    <q>Hey Guys</q><br />
+    <blockquote cite="http://www.faradars.org">
+        Hey guys<br />
+        Hey guys<br />
+        Hey guys<br />
+    </blockquote>
+    <abbr title="Islamic Republic Iranian Broadcasting">IRIB</abbr><br />
+    <address>Hey Guys</address><br />
+    <cite>Amirabbas said</cite>Hey Guys<br />
+    To open a file select <kbd>File|Open</kbd><br />
+    <samp>x=35</samp><br />
+    <code>
+        <pre>
+            printf("Hey Guys");
+        </pre>
+    </code>
+    <var>E=mc<sup>2</sup></var>
+
+
+</body>
+
+</html>

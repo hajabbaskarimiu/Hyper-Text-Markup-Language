@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Hey World</title>
+</head>
+
+<body>
+    <h1>Html Tutorial</h1>
+    <h2>P Tag</h2>
+    <p style="font-size: 24pt;color: red;background-color: yellow;
+    width: 50%;height: 500px;text-align: right;font-weight: bold;
+    background-image: url(abbaskarimi.jpg);">
+        Give &nbsp;&nbsp;&nbsp;
+        <span style="font-size: 48pt;color: blue;font-family: tahoma,Arial, Helvetica, sans-serif;"> me </span><br />
+        five
+    </p>
+</body>
+
+</html>
